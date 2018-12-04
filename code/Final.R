@@ -92,6 +92,8 @@ ggplot(k1) +
   geom_histogram(aes(Var1), color = "grey20")
 dev.off()
 
+# Figure 5 ----------------------------------------------------------------
+
 k=k[-1,]
 
 pdf("../image/5.pdf", width = 10, height=6.18)
@@ -99,3 +101,6 @@ distplot(k[,c(2,1)], type = c("poisson"),
          conf_int=FALSE, conf_level=FALSE,
          main = "Poissonness plot of Area 12")
 dev.off()
+
+
+

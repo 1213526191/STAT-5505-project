@@ -1,12 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1543894586 "/Users/ivanlee/Documents/GitHub/STAT-5505-project/report/project.tex" "project.pdf" "project" 1543894587
+["pdflatex"] 1543961991 "/Users/ivanlee/Documents/GitHub/STAT-5505-project/report/project.tex" "project.pdf" "project" 1543961992
   "../image/1.pdf" 1543894093 4774 69663d7b1848f733aa73ff80da3e0483 ""
   "../image/2.pdf" 1543894105 5564 62e0dbba98901f5928845999b9744f3f ""
   "../image/3.pdf" 1543894119 7633 7d76d3cf0eb57e414e8e6feb82318093 ""
   "../image/4.pdf" 1543894149 5710 4c3d06283e6563324ae8ab4260ad708b ""
   "../image/5.pdf" 1543894154 4689 edddd555370f1392dbd9a92bbeb31c12 ""
   "../image/6.pdf" 1543894156 5513 334a3363ceb92ed9bafe034b587b9779 ""
-  "/Users/ivanlee/Documents/GitHub/STAT-5505-project/report/project.tex" 1543894586 6037 07a2f889f6da83e0fc1301d2d61c08dd ""
+  "/Users/ivanlee/Documents/GitHub/STAT-5505-project/report/project.tex" 1543961990 6036 409c6abd8ae8da9edcebc6f958b32da1 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1480098698 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -174,9 +174,9 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1535588292 4220280 11309d9c4eb0a2477da5652ea2621d8a ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "project.aux" 1543894587 1493 5877154d83620f5a3b394f019fcc95b7 ""
-  "project.tex" 1543894586 6037 07a2f889f6da83e0fc1301d2d61c08dd ""
+  "project.aux" 1543961992 1493 5877154d83620f5a3b394f019fcc95b7 ""
+  "project.tex" 1543961990 6036 409c6abd8ae8da9edcebc6f958b32da1 ""
   (generated)
-  "project.aux"
   "project.pdf"
   "project.log"
+  "project.aux"

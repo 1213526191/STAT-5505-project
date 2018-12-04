@@ -9,4 +9,5 @@
 - data: original data and discription file.
 - image: Figure 1 to 5 in *report.pdf*
 - report: latex file
+- other: other useless file. Just kept in case.
 	

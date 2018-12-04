@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.8.29)  3 DEC 2018 21:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.8.29)  3 DEC 2018 22:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -409,7 +409,7 @@ Package pgfplots Warning: running in backwards compatibility mode (unsuitable ti
 <../image/1.pdf, id=4, 722.7pt x 445.665pt>
 File: ../image/1.pdf Graphic file (type pdf)
 <use ../image/1.pdf>
-Package pdftex.def Info: ../image/1.pdf  used on input line 47.
+Package pdftex.def Info: ../image/1.pdf  used on input line 45.
 (pdftex.def)             Requested size: 284.53154pt x 175.83513pt.
 [1
 
@@ -417,57 +417,59 @@ Package pdftex.def Info: ../image/1.pdf  used on input line 47.
 <../image/2.pdf, id=17, 722.7pt x 445.665pt>
 File: ../image/2.pdf Graphic file (type pdf)
 <use ../image/2.pdf>
-Package pdftex.def Info: ../image/2.pdf  used on input line 55.
+Package pdftex.def Info: ../image/2.pdf  used on input line 57.
 (pdftex.def)             Requested size: 284.53154pt x 175.83513pt.
 
 
 LaTeX Warning: The counter will not be printed.
-             The label is: - on input line 66.
+             The label is: - on input line 68.
 
 [2 <../image/1.pdf> <../image/2.pdf>]
 <../image/3.pdf, id=31, 722.7pt x 445.665pt>
 File: ../image/3.pdf Graphic file (type pdf)
 <use ../image/3.pdf>
-Package pdftex.def Info: ../image/3.pdf  used on input line 73.
+Package pdftex.def Info: ../image/3.pdf  used on input line 75.
 (pdftex.def)             Requested size: 284.53154pt x 175.83513pt.
 
 
 LaTeX Warning: The counter will not be printed.
-             The label is: - on input line 81.
+             The label is: - on input line 83.
 
 [3 <../image/3.pdf>]
 
 LaTeX Warning: The counter will not be printed.
-             The label is: - on input line 90.
+             The label is: - on input line 92.
 
 <../image/4.pdf, id=44, 722.7pt x 445.665pt>
 File: ../image/4.pdf Graphic file (type pdf)
 <use ../image/4.pdf>
 Package pdftex.def Info: ../image/4.pdf  used on input line 98.
 (pdftex.def)             Requested size: 284.53154pt x 175.83513pt.
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 108.
-
 <../image/5.pdf, id=45, 722.7pt x 445.665pt>
 File: ../image/5.pdf Graphic file (type pdf)
 <use ../image/5.pdf>
-Package pdftex.def Info: ../image/5.pdf  used on input line 109.
+Package pdftex.def Info: ../image/5.pdf  used on input line 105.
+(pdftex.def)             Requested size: 199.16766pt x 113.80968pt.
+[4 <../image/4.pdf> <../image/5.pdf>]
+<../image/6.pdf, id=60, 722.7pt x 445.665pt>
+File: ../image/6.pdf Graphic file (type pdf)
+<use ../image/6.pdf>
+Package pdftex.def Info: ../image/6.pdf  used on input line 114.
 (pdftex.def)             Requested size: 284.53154pt x 175.83513pt.
-[4 <../image/4.pdf>] [5 <../image/5.pdf>] (./project.aux) ) 
+ [5 <../image/6.pdf>] (./project.aux) ) 
 Here is how much of TeX's memory you used:
- 21760 strings out of 492649
- 572592 string characters out of 6129622
+ 21766 strings out of 492649
+ 572711 string characters out of 6129622
  767669 words of memory out of 5000000
- 25275 multiletter control sequences out of 15000+600000
+ 25280 multiletter control sequences out of 15000+600000
  9668 words of font info for 35 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,6n,96p,825b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on project.pdf (5 pages, 152727 bytes).
+Output written on project.pdf (5 pages, 157734 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
+ 108 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 

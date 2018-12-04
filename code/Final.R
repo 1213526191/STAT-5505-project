@@ -76,6 +76,22 @@ p_chi(x,y)
 
 # Figure 4 ----------------------------------------------------------------
 
+crime$Area.ID=as.factor(crime$Area.ID)
+w=table(crime$Area.ID)
+t=as.data.frame(w)
+
+pdf("../image/4.pdf", width = 10, height=6.18)
+ggplot(data=t, aes(x=Var1, y=Freq, fill=Freq) ) +
+  geom_bar(stat="identity") + 
+  labs(title="Area ID vs Frequency",x="Area ID",y="Frequency") +
+  geom_text(aes(label=Freq),size=3.5, vjust=-0.3)+
+  theme(axis.ticks.y  = element_blank()) +
+  theme_minimal()+
+  scale_y_continuous(breaks=NULL)
+dev.off()
+
+# Figure 5 ----------------------------------------------------------------
+
 crime$Month_Yr=format(as.Date(crime$Date.Occurred,"%m/%d/%Y"),"%Y-%m")
 area1=subset(crime,Area.ID==12)
 area1$Month_Yr=as.factor(area1$Month_Yr)
@@ -87,16 +103,16 @@ k$Var1=as.character(k$Var1)
 k$Var1=as.integer(k$Var1)
 
 k1 = as.tibble(k)
-pdf("../image/4.pdf", width = 10, height=6.18)
+pdf("../image/5.pdf", width = 10, height=6.18)
 ggplot(k1) +
   geom_histogram(aes(Var1), color = "grey20")
 dev.off()
 
-# Figure 5 ----------------------------------------------------------------
+# Figure 6 ----------------------------------------------------------------
 
 k=k[-1,]
 
-pdf("../image/5.pdf", width = 10, height=6.18)
+pdf("../image/6.pdf", width = 10, height=6.18)
 distplot(k[,c(2,1)], type = c("poisson"),
          conf_int=FALSE, conf_level=FALSE,
          main = "Poissonness plot of Area 12")

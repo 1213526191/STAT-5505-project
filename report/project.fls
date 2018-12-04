@@ -247,6 +247,9 @@ INPUT ../image/4.pdf
 INPUT ../image/5.pdf
 INPUT ../image/5.pdf
 INPUT ../image/5.pdf
+INPUT ../image/6.pdf
+INPUT ../image/6.pdf
+INPUT ../image/6.pdf
 INPUT project.aux
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb
